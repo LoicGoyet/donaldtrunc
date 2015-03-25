@@ -8,11 +8,7 @@
   "description": "A way to concatenate strings in browsers",
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "dependencies": {
     "jquery": "1.x"
