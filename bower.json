@@ -1,0 +1,16 @@
+{
+  "name": "donaldtrunc",
+  "version": "0.0.0",
+  "homepage": "https://github.com/LoicGoyet/donaldtrunc",
+  "authors": [
+    "Loic Goyet <loic@appventus.com>"
+  ],
+  "description": "A way to concatenate strings in browsers",
+  "license": "MIT",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "1.x"
+  }
+}
