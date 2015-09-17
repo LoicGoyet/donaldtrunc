@@ -45,3 +45,7 @@ Disactivate the truncate on the element
 ####`.donaldtrunc('trunctoggle');`
 	$('.selector').donaldtrunc('trunctoggle');
 Activate or Disactivate the truncate depending of the element's state
+
+
+## Notice
+This repository do have nothing in common with Mr Donald John Trump and do not support him. Mr Donald John Trump do not recommand this github repository. The name of this repository was just choosen for the joke.
